@@ -92,3 +92,44 @@ body {
     color: white;
   }
 
+
+  .container {
+    margin: 20px;
+    color: black;
+  }
+
+  h3 {
+    font-size: 50px;
+  }
+
+ .aboutme {
+  font-size: 30px;
+ }
+
+ .del {
+  font-size: 40px;
+ }
+
+ .pancake {
+  width: 20%;
+  height: 25%;
+  position: absolute;
+  right: 250px;
+  top: 10%;
+ }
+
+ .cake {
+  width: 20%;
+  height: 25%;
+  position: absolute;
+  right: 250px;
+  top: 70%;
+ }
+
+ .cookie {
+  width: 20%;
+  height: 25%;
+  position: absolute;
+  right:250px;
+  top: 40%;
+ }
